@@ -40,7 +40,7 @@ THEN I am taken to the corresponding section of the README
 ## Review
 
 * A walkthrough video demonstrating the functionality of the application: 
-<img src="./assets/vid.mp4">
+https://user-images.githubusercontent.com/74340217/177667585-25ec87ce-90e4-4dc4-a4a0-d639f2fd3ab4.mp4
 
 * Screenshot of the app:
 <img src="./assets/SS.png">
