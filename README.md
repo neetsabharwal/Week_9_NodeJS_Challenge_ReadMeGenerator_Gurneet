@@ -40,6 +40,10 @@ THEN I am taken to the corresponding section of the README
 ## Review
 
 * A walkthrough video demonstrating the functionality of the application: 
+<img src="./assets/vid.mp4">
+
+* Screenshot of the app:
+<img src="./assets/SS.png">
 
 * A sample README.md file: 
 
