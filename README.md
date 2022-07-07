@@ -46,5 +46,6 @@ https://user-images.githubusercontent.com/74340217/177667585-25ec87ce-90e4-4dc4-
 <img src="./assets/SS.png">
 
 * A sample README.md file: 
+https://github.com/neetsabharwal/Week_9_NodeJS_Challenge_ReadMeGenerator_Gurneet/blob/master/ReadMe_Generator/README.md
 
 * The URL of the GitHub repository: https://github.com/neetsabharwal/Week_9_NodeJS_Challenge_ReadMeGenerator_Gurneet
